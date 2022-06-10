@@ -25,7 +25,7 @@ float32 motorTemp
 `motor id` ranges from 0-3, which are VESC of front left, front right, rear left and rear right respectively. Feedback of all four VESC are received within the same USB packet and published simultaneously, every ~10ms.
 
 ### Setting angle of DJI Motors
-TODO Waiting for Jeff's DJI board CAN
+TODO
 
 ### Getting angle from DJI Motors
-TODO Waiting for Jeff's DJI board CAN
+TODO
