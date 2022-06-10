@@ -1,0 +1,3 @@
+<launch>
+	<node name="cheetah_driver" pkg="cheetah_driver" type="cheetah_driver" output="screen" />
+</launch>
